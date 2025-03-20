@@ -58,7 +58,7 @@ For TPC-DS and DSB, compile main.cpp and run run.sh. A "result.txt" file will be
 DuckDB is a high-performance analytical database system. It is designed to be fast, reliable, portable, and easy to use. DuckDB provides a rich SQL dialect, with support far beyond basic SQL. DuckDB supports arbitrary and nested correlated subqueries, window functions, collations, complex types (arrays, structs), and more. For more information on using DuckDB, please refer to the [DuckDB documentation](https://duckdb.org/docs/).
 
 # Installation
-First, download the project and enter the root directory
+First, download the project and enter the root directory (I use gcc/g++ to compile)
 ```
 cd PredTransDuckDB
 ```
