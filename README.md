@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > **Archived as of Sep 4th, 2025:**
-> An newer implementation with a more recent version of DuckDB can be found in [this repo](https://github.com/embryo-labs/dynamic-predicate-transfer).
+> A new implementation with a more recent version of DuckDB can be found in [this repo](https://github.com/embryo-labs/dynamic-predicate-transfer).
 
 We integrate Robust Predicate Transfer into DuckDB, when you finish installing DuckDB, you already have Predicate Transfer in it.
 You can find the code of Predicate Transfer in src/optimizer/predicate_transfer. The interface of Predicate Transfer can be found at optimizer.cpp at line 120-121, 131.
